@@ -20,6 +20,7 @@ Events and what they do:
 
 class Elevator {
   constructor() {
+    this.requests = [] // riders requesting to ride the elevator
     this._events = []
   }
 
