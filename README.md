@@ -15,8 +15,6 @@ We will focus heavily on **TDD** and writing super clean code. We will be consid
 
 When you start a new level, read through the level's specification and write failing (red) tests to satisfy the spec. Then write your implementation code to make the tests pass (green).
 
-Clone this repository and run `npm install` to install testing dependencies.
-
 ### Level 0
 
 Sketch out the elevator process on pencil and paper. What kinds of things do you need to keep track of? What is a modern elevator's pickup and drop off strategy?
